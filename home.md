@@ -1,6 +1,12 @@
 ---
 layout: page
-title: "home"
+title: "Home"
 permalink: /home
 ---
-This is the home page!
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
