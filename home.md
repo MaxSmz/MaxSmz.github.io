@@ -3,7 +3,6 @@ layout: page
 title: "Home"
 permalink: /home
 ---
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Hello World</h1>
